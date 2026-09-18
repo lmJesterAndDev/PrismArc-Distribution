@@ -1,12 +1,12 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "minecraft": "1.21.1",
   "neoforge": "21.1.250",
   "files": [
     {
       "path": "mods/prismeconomyapi-1.0.1.jar",
       "url": "https://raw.githubusercontent.com/lmJesterAndDev/PrismArc-Distribution/main/files/mods/prismeconomyapi-1.0.1.jar",
-      "sha256": "95206256E0B38F4DF437A0FB47391C43B2331732AA24E7C87C81279FAA7248FD"
+      "sha256": "95206256e0b38f4df437a0fb47391c43b2331732aa24e7c87c81279faa7248fd"
     }
   ]
 }
