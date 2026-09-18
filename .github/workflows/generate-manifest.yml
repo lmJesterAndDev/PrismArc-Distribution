@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "files/**"
+      - "version.txt"
 
 permissions:
   contents: write
@@ -60,8 +61,20 @@ jobs:
                       "sha256": sha256
                   })
 
+          version_file = Path("version.txt")
+          
+          if not version_file.exists():
+              raise RuntimeError("version.txt not found")
+          
+          version = version_file.read_text(
+              encoding="utf-8"
+          ).strip()
+          
+          if not version:
+              raise RuntimeError("version.txt is empty")
+          
           manifest = {
-              "version": "1.0.0",
+              "version": version,
               "minecraft": "1.21.1",
               "neoforge": "21.1.250",
               "files": files
