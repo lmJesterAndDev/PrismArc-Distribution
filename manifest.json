@@ -12,6 +12,11 @@
       "path": "mods/prismeconomyapi-1.0.1.jar",
       "url": "https://raw.githubusercontent.com/lmJesterAndDev/PrismArc-Distribution/main/files/mods/prismeconomyapi-1.0.1.jar",
       "sha256": "95206256e0b38f4df437a0fb47391c43b2331732aa24e7c87c81279faa7248fd"
+    },
+    {
+      "path": "mods/prismplayer-template-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/lmJesterAndDev/PrismArc-Distribution/main/files/mods/prismplayer-template-1.21.1-1.0.0.jar",
+      "sha256": "61c8570499c95be17dcfa9a0af926915cdfced32bf4a7e482893b23870235038"
     }
   ]
 }
