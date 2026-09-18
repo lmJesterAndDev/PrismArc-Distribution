@@ -4,6 +4,11 @@
   "neoforge": "21.1.250",
   "files": [
     {
+      "path": "mods/prismeconomy-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/lmJesterAndDev/PrismArc-Distribution/main/files/mods/prismeconomy-1.0.0.jar",
+      "sha256": "34ce19f8bf414801682e4211287f0281396f0a9f882d8f86e13293d6d3fc1bb5"
+    },
+    {
       "path": "mods/prismeconomyapi-1.0.1.jar",
       "url": "https://raw.githubusercontent.com/lmJesterAndDev/PrismArc-Distribution/main/files/mods/prismeconomyapi-1.0.1.jar",
       "sha256": "95206256e0b38f4df437a0fb47391c43b2331732aa24e7c87c81279faa7248fd"
