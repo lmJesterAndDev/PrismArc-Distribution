@@ -1,0 +1,14 @@
+{
+  "instances": [
+    {
+      "id": "prismarc-main",
+      "name": "PrismArc",
+      "description": "Основная сборка PrismArc",
+      "minecraft": "1.21.1",
+      "loader": "neoforge",
+      "loaderVersion": "21.1.250",
+      "version": "0.1.0",
+      "manifest": "https://raw.githubusercontent.com/lmJesterAndDev/PrismArc-Distribution/main/manifest.json"
+    }
+  ]
+}
