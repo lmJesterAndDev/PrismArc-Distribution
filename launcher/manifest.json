@@ -1,7 +1,5 @@
 {
   "version": "1.0.0",
-  "launcher": {
-    "url": "https://raw.githubusercontent.com/lmJesterAndDev/PrismArc-Distribution/main/launcher/PrismArcLauncher.jar",
-    "sha256": "..."
-  }
+  "url": "https://raw.githubusercontent.com/lmJesterAndDev/PrismArc-Distribution/main/launcher/PrismArcLauncher-win-x64.zip",
+  "sha256": "6965BBC0FBFB8C0507E71B5DE32E1DA12AD4ACFE8AE3E301721111EC5F1B88DF"
 }
